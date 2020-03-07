@@ -1,6 +1,8 @@
 # Home
 This contains all the business stuff and the main Github.io site
 
+Check out the site here:
+
 > <https://parkland-engineering-club.github.io/Homepage/>
 
 
