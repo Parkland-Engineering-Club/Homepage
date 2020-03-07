@@ -82,7 +82,8 @@
   bottom: 5px;
   left: 5px; }
 .navbar {
-  display: none; }
+  display: none;
+  align-content: center; }
 
 /* Larger than phone */
 @media (min-width: 550px) {
