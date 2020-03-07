@@ -6,7 +6,7 @@ Check out the site here:
 > <https://parkland-engineering-club.github.io/Homepage/>
 
 
-## To Be Added to the Organization
+### To Be Added to the Organization
 
 Fill out this form
 
