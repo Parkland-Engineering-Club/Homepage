@@ -82,8 +82,12 @@
   bottom: 5px;
   left: 5px; }
 .navbar {
-  display: none;
-  align: center; }
+  display: none; }
+.nowrap {
+  white-space: nowrap; }
+#officers-table {
+  border-collapse:separate;
+  border-spacing:0 15px; }
 
 /* Larger than phone */
 @media (min-width: 550px) {
