@@ -9,9 +9,7 @@
   height: 3rem;
   margin: 2.5rem auto 0; }
 img.logo {
-  height:
-    inherit;
-}
+  height: inherit; }
 .docs-header {
   text-transform: uppercase;
   font-size: 1.4rem;
