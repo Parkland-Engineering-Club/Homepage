@@ -8,8 +8,6 @@
   text-align: center;
   height: 3rem;
   margin: 2.5rem auto 0; }
-img.logo {
-  height: inherit; }
 .docs-header {
   text-transform: uppercase;
   font-size: 1.4rem;
@@ -90,6 +88,8 @@ img.logo {
 #officers-table {
   border-collapse:separate;
   border-spacing:0 15px; }
+.logo-img {
+  max-height:3rem; }
 
 /* Larger than phone */
 @media (min-width: 550px) {
@@ -98,8 +98,8 @@ img.logo {
   .value-props {
     margin-top: 9rem;
     margin-bottom: 7rem; }
-  .value-img {
-    margin-bottom: 1rem; }
+  .logo-img {
+    max-height:4rem; }
   .example-grid .column,
   .example-grid .columns {
     margin-bottom: 1.5rem; }
@@ -114,6 +114,10 @@ img.logo {
     height: 100%;
     left: 0;
     max-height: none; }
+  
+  /* Logo */
+  .logo-img {
+    max-height:4rem; }
 }
 
 /* Larger than tablet */
@@ -229,4 +233,8 @@ img.logo {
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
+  
+  /* Logo */
+  .logo-img {
+    max-height:5rem; }
 }
